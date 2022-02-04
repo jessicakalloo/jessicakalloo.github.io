@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>HUNTER X HUNTER QUIZ! </title>
+    </head>
+    <body>
+        <h3> Which Hunter X Hunter Character Are You? </h3>
+        <img src="https://i1.wp.com/www.womensrepublic.net/wp-content/uploads/2020/11/Hunter-x-Hunter-Featured-Image-1.jpg">
+        <div class="">
+			
+            
+            <button>Go!</button>
+        </div>
+    
+        
+    </body>
+</html>
