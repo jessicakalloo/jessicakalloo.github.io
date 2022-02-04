@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Unit 6 Project</title>
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+    </head>
+    <body>
+        <div class="title">Picking Fruits for Pie! Choose a fruit to start picking from the trees to make your pie! </div>
+        <img class="firstImage" src="https://images.app.goo.gl/u2dYrAq5vSLSdZjM8">
+        <div class="button"> 
+            <button class="apple-button"> Apple </button>
+            <button class="peach-button"> Peach </button>
+            <button class="next"> Next </button>
+        </div>
+        <div class="peachImage"> Double click the tree to make peaches fall.
+        <img src="https://images.app.goo.gl/pJgfEwtLaKA7JMZWA">
+        </div>
+        <div class="peach"> Now you have peaches to make pie!
+        <img src="https://images.app.goo.gl/G2VArBYQRzeHSHKF8">
+        </div>
+        <div class="appleImage"> Double click the tree to make apples fall out.
+        <img src="https://images.app.goo.gl/GBNGcwYv1veW24xS7">
+        
+        <div class="apple"> Now you have enough apples for apple pie!
+        <img src="https://images.app.goo.gl/Qd45GQL4rHWGrBZx5">
+            </div>
+  
+        </div>
+    </body>
+</html>
